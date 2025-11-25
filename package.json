@@ -2,7 +2,7 @@
   "name": "tictactoe-react",
   "version": "1.0.0",
   "description": "Simple Tic-Tac-Toe teaching example with React 18",
-  "homepage": "https://AUPP-CS.github.io/inf-651-f25-front-end-web-development-fall-2025-tic-tac-toe-deployment-minimal_tic-tac-toe",
+  "homepage": "https://Kimsean-Bun.github.io/Tic-Tac-Toe-Testing",
   "scripts": {
     "start": "parcel public/index.html",
     "build": "parcel build public/index.html",
